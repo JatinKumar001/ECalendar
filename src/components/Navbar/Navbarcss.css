@@ -1,0 +1,45 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mini-logo{
+    margin: 30px 0 0 50px;
+}
+
+.mlogo{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.nav-links{
+    width: 200px;
+    height: 130px;
+}
+
+.nav-links{
+    width: 800px;
+}
+
+.nav-links ul{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.nav-links ul li{
+    list-style: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: rgb(151, 151, 151);
+    cursor: pointer;
+}
+
+.nav-links ul li:hover{
+    font-weight: 600;
+}
